@@ -1,6 +1,6 @@
 Hi, I’m @rahmani-sofiane, I'm a beginner in web developement. 
 
-For now, I'm making a web development training with Openclassrooms as part-time. 
+For now, I'm making a web development training with Openclassrooms as part-time. </br>
 I'm just starting so I clearly don't have a clean code but I hope that with time, effort and patience it's gonna be better ! 
 
 I’m currently learning pure Javascript. 
