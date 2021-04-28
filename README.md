@@ -5,7 +5,7 @@ I'm just starting so I clearly don't have a clean code but I hope that with time
 
 I’m currently learning pure Javascript. 
 
-I’m interested in front-end development and I aim at developing new skills in framework like Vue.js and library like Matters.js and Three.js 
+I’m interested in front-end development and I aim at developing new skills in frameworks like Vue.js and libraries like Matters.js and Three.js 
 
 
 
